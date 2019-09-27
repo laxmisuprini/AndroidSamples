@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="submit">Submit</string>
+    <string name="please_enter_name">Please Enter Your Name Here</string>
+    <string name="submit2">submit</string>
+    <string name="hiThere">Hi There</string>
+    <string name="hi_there">Hi There</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RITContacts</string>
+    <string-array name="dept_list">
+        <item>Board Members</item>
+        <item>Information Science and Engg</item>
+        <item>Computer Science AND Engg.</item>
+        <item>Electronics and Communication</item>
+        <item>Civil Engg</item>
+    </string-array>
+</resources>
